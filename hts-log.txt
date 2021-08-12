@@ -1,0 +1,19 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 09 Aug 2021 22:52:38 at http://themepresss.com/tf/html/telusa/telusa/index.html#home +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://themepresss.com/tf/html/telusa/telusa/index.html#home -O1 "C:\My Web Sites\Portfolio" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:53:29	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/robots.txt (from primary/primary)
+22:53:29	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link primary/home (from primary/primary)
+22:54:17	Error: 	"Forbidden" (403) at link themepresss.com/tf/html/telusa/telusa/assets/ (from themepresss.com/tf/html/telusa/telusa/index.html)
+22:54:20	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link primary/home (from primary/primary)
+22:54:22	Error: 	"Not Found" (404) at link themepresss.com/tf/html/telusa/telusa/assets/css/owl.video.play.png (from themepresss.com/tf/html/telusa/telusa/assets/css/owl.carousel.css)
+22:54:22	Error: 	"Not Found" (404) at link themepresss.com/tf/html/telusa/telusa/assets/images/select-icon.png (from themepresss.com/tf/html/telusa/telusa/assets/css/style.css)
+22:54:26	Error: 	"Not Found" (404) at link themepresss.com/tf/html/telusa/telusa/0 (from themepresss.com/tf/html/telusa/telusa/blog-single.html)
+22:54:26	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/home (from primary/primary)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 48 seconds : 86 links scanned, 77 files written (3176914 bytes overall) [2350593 bytes received at 21764 bytes/sec], 1706184 bytes transferred using HTTP compression in 35 files, ratio 30%, 6.8 requests per connection
+(6 errors, 2 warnings, 0 messages)
